@@ -1,0 +1,30 @@
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.exe.config
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csprojAssemblyReference.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.Form1.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.Properties.Resources.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csproj.GenerateResource.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.exe.config
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csprojAssemblyReference.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.Form1.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.Properties.Resources.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csproj.GenerateResource.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.exe.config
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\bin\Debug\PortDinleme2.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csprojAssemblyReference.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.Form1.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.Properties.Resources.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csproj.GenerateResource.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\PortDinleme2\PortDinleme2\obj\Debug\PortDinleme2.pdb

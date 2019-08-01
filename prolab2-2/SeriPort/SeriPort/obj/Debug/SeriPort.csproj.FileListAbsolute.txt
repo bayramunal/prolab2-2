@@ -1,0 +1,30 @@
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\bin\Debug\SeriPort.exe.config
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\bin\Debug\SeriPort.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\bin\Debug\SeriPort.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.Form1.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.Properties.Resources.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.csproj.GenerateResource.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\SeriPort\SeriPort\obj\Debug\SeriPort.csprojAssemblyReference.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\bin\Debug\SeriPort.exe.config
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\bin\Debug\SeriPort.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\bin\Debug\SeriPort.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.csprojAssemblyReference.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.Form1.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.Properties.Resources.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.csproj.GenerateResource.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\bin\Debug\SeriPort.exe.config
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\bin\Debug\SeriPort.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\bin\Debug\SeriPort.pdb
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.csprojAssemblyReference.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.Form1.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.Properties.Resources.resources
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.csproj.GenerateResource.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.exe
+C:\Users\Hacı Bayram ÜNAL\Desktop\Yeni klasör (3)\Yeni klasör\SeriPort\SeriPort\obj\Debug\SeriPort.pdb
